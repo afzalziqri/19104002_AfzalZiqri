@@ -1,4 +1,4 @@
-# 19104026_AlfanAdiChandra
+# 19104002_AfzalZiqri
 Praktikum Desain &amp; Pemrograman Web
 
-Link Tugas Hosting https://alfan.linknya.id/
+Link Tugas Hosting https://sdn1teluk.linknya.id/
